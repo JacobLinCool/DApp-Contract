@@ -1,6 +1,6 @@
 {
     "name": "dapp-contract",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "Smart contract ease of use.",
     "author": "JacobLinCool <jacoblincool@gmail.com> (https://github.com/JacobLinCool)",
     "license": "MIT",
@@ -40,5 +40,13 @@
         "tsup": "^5.11.11",
         "typedoc": "^0.22.11",
         "typescript": "^4.5.5"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/JacobLinCool/DApp-Contract.git"
+    },
+    "homepage": "https://github.com/JacobLinCool/DApp-Contract",
+    "bugs": {
+        "url": "https://github.com/JacobLinCool/DApp-Contract/issues"
     }
 }
